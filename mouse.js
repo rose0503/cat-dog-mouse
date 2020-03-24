@@ -3,5 +3,5 @@ function Mouse(){
 }
 
 console.log('con meo ngu ngoc')
-console.log('hay qua')
+
  module.exports = Mouse;
