@@ -3,5 +3,4 @@ function Mouse(){
 }
 
 console.log('con meo ngu ngoc')
-
  module.exports = Mouse;
